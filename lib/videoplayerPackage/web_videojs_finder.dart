@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:videoplayer_pkg/video_js.dart';
+import 'package:videoplayerpkg/video_js.dart';
 
 import 'videojs_controller.dart';
 
