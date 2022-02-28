@@ -1,4 +1,4 @@
-library videoplayer_pkg;
+library videoplayerpkg;
 
 
 import 'dart:io';
